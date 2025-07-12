@@ -1,0 +1,1 @@
+renderPropiedades(propiedadesVenta, venta)
