@@ -21,3 +21,4 @@ Desafío 4- Inmobiliaria
  alquiler. Tal como se muestra en la imagen 1, enlaza el botón a su respectiva página
  web para ver más propiedades. (1 punto) ✅
 
+pagina desplegada : https://xllnakullx.github.io/Desafio_Inmobiliaria/
